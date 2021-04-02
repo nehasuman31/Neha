@@ -1,0 +1,35 @@
+.img {
+    width: 45px;
+    margin-top: -10px;
+    margin-left: 40px;
+}
+.card {
+    border-radius: 8px;
+    padding: 10px;
+    background-color: #e8e7e3;
+    
+}
+.card-header {
+    margin-bottom: 5px;
+}
+.card-img-top{
+    width:45px;
+    float: left;
+    margin: 0 5px 0 0;
+}
+.card-header textarea{
+    border-radius: 15px;
+    width: 80%;
+}
+#icon a{
+  text-decoration: none;
+    padding-left: 60px;
+}
+.icon-bar a{
+  padding-left: 20px;
+}
+.panel-image{
+  width:26px;
+    float: left;
+    margin: 0 5px 0 0;
+}
