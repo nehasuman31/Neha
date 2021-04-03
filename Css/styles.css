@@ -21,15 +21,28 @@
     border-radius: 15px;
     width: 80%;
 }
-#icon a{
-  text-decoration: none;
-    padding-left: 60px;
-}
-.icon-bar a{
-  padding-left: 20px;
-}
+
 .panel-image{
   width:26px;
     float: left;
     margin: 0 5px 0 0;
+}
+
+
+.navbar-toggle .icon-bar {
+  width: 100%;
+  float: left;
+  height: 2px;
+  background-color: black;
+}
+.navbar-toggle {
+  width: 47px;
+  height: 34px;
+  background-color: #eef3f8;
+}
+.navbar{
+  background-color: white;
+}
+.icon-bar a{
+  padding-left: 10px;
 }
